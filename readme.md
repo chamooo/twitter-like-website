@@ -1,0 +1,1 @@
+Website like simplified Twitter. Improving skills in php, mysql, js, ajax
